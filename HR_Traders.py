@@ -1,3 +1,4 @@
+- pip install reportlab
 """
 HR Traders - Document Generator
 Creates professional PDFs for:
